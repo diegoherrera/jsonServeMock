@@ -1,0 +1,66 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción"
+    },
+    {
+      "nombre": "xxxxxxDiego Herrera 22",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 4
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ],
+  "Libros": [
+    {
+      "name": "La casa de los sueños",
+      "year": "2020",
+      "category": "Drama",
+      "id": 1
+    },
+    {
+      "name": "El ciego verde",
+      "year": "2020",
+      "category": "Comedia",
+      "id": 2
+    },
+    {
+      "name": "Superman",
+      "year": "2020",
+      "category": "Documental",
+      "id": 3
+    },
+    {
+      "name": "Mi yo interior",
+      "year": "2020",
+      "category": "Acción",
+      "id": 4
+    }
+  ]
+}
